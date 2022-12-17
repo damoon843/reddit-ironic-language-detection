@@ -46,4 +46,6 @@ The final recall values:
 |----------------|-------|--------|-----------------|-----------------|
 | Baseline Model | 0.29  | 0.30   | 0.25            | 0.33            |
 | Full Model     | 0.41  | 0.43   | 0.35            | 0.45            |
+  
+Note that precision and recall are reported separately because, according to the paper, "it is not clear that one would value recall and precision equally for irony detection, and because this allows us to tease out how the models differ in performance" (Wallace et al., 2015).
 
